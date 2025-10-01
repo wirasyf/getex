@@ -14,8 +14,6 @@ class MyApp extends StatelessWidget {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Tes App',
-      initialRoute: Routes.HOME,
-      getPages: AppPages.routes,
     );
   }
 }
