@@ -7,7 +7,11 @@ abstract class Routes {
   static const PROFILE = _Paths.PROFILE;
 =======
   static const HOME = _Paths.HOME;
+<<<<<<< HEAD
 >>>>>>> af48a42fa62ee501e6822bb3255887b42456076a
+=======
+  static const TES = _Paths.TES;
+>>>>>>> 6c28f41e5ffa63dc8f90be8062cb74213b06a2d1
 }
 
 abstract class _Paths {
@@ -16,5 +20,9 @@ abstract class _Paths {
   static const PROFILE = '/profile';
 =======
   static const HOME = '/home';
+<<<<<<< HEAD
 >>>>>>> af48a42fa62ee501e6822bb3255887b42456076a
+=======
+  static const TES = '/tes';
+>>>>>>> 6c28f41e5ffa63dc8f90be8062cb74213b06a2d1
 }
